@@ -38,8 +38,8 @@ A modern, responsive Tetris game built with React, Next.js, and Tailwind CSS.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YOUR-USERNAME/tetris.git
-   cd tetris
+   git clone https://github.com/kyprexs/Tetris.git
+   cd Tetris
    ```
 
 2. **Install dependencies:**
